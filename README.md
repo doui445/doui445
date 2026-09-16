@@ -1,6 +1,6 @@
 ### Salut, moi c'est Manu 👋
 
-Développeur Développeur concepteur logiciel de formation (en recherche de CDI), je développe surtout des apps Java avec Spring Boot, je suis full-stack, et j'ai pas mal de projets perso (notamment sur l'ia).
+Développeur concepteur logiciel de formation (en recherche de CDI), je développe surtout des apps Java avec Spring Boot, je suis full-stack, et j'ai pas mal de projets perso (notamment sur l'IA).
 
 - 🔭 Cœur de stack : **Java, Spring Boot, Spring Security, API REST, microservices**
 - 🌱 Je pratique aussi Python, React et Swift
@@ -19,4 +19,6 @@ Développeur Développeur concepteur logiciel de formation (en recherche de CDI)
 
 ### Mes derniers projets
 
-project-tracker
+- **[project-tracker](https://github.com/doui445/project-tracker)** — plugin Claude Code qui tient à jour automatiquement la documentation d'un projet (statut, journal, changelog, décisions) au fil des sessions de dev, et génère un portfolio HTML de tous les projets suivis.
+- **Système IA de gestion d'entreprise** — hub multi-agents self-hosted (n8n, Ollama, RAG, mémoire persistante) *(repo privé pour l'instant)*
+- **Application utilitaire de notch interactif** — Swift, macOS *(repo privé pour l'instant)*
